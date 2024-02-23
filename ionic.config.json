@@ -1,0 +1,7 @@
+{
+  "name": "gabrielepetroni-webpage",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
